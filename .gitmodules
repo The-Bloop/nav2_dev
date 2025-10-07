@@ -1,0 +1,16 @@
+[submodule "goal_talk"]
+	path = goal_talk
+	url = git@github.com:The-Bloop/goal_talk.git
+	branch = main
+[submodule "robot_launcher_cpp"]
+	path = robot_launcher_cpp
+	url = git@github.com:The-Bloop/robot_launcher_cpp.git
+	branch = separate_robot_files
+[submodule "wheel_robot_v3"]
+	path = wheel_robot_v3
+	url = git@github.com:The-Bloop/wheel_robot_v3.git
+	branch = main
+[submodule "wheel_robot_v4"]
+	path = wheel_robot_v4
+	url = git@github.com:The-Bloop/wheel_robot_v4.git
+	branch = 2_wheel_drive
